@@ -1,0 +1,10 @@
+body{
+    background-image: url("../../assets/img/papel-pintado-pared.jpg");
+    font-family: sans-serif;
+    color: skyblue;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
